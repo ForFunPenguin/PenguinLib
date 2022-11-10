@@ -1,0 +1,4 @@
+name: PenguinAPI
+version: '${project.version}'
+main: me.forfunpenguin.penguinapi.PenguinAPI
+api-version: 1.19
